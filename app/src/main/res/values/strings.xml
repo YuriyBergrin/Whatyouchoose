@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Что бы ты выбрал</string>
+    <string name="Start">Играть</string>
+    <string name="Next">Далее</string>
+    <string name="Top">ЧТО БЫ ТЫ ВЫБРАЛ?</string>
+    <string name="Easy">Изи</string>
+    <string name="Normal">Норм</string>
+    <string name="Hard">Жесть</string>
+</resources>
