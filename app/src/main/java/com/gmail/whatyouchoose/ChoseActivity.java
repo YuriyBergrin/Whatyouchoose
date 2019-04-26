@@ -1,9 +1,10 @@
 package com.gmail.whatyouchoose;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class ChoseActivity extends AppCompatActivity {
+public class ChoseActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

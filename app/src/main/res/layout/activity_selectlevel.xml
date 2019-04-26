@@ -13,9 +13,9 @@
         style="@android:style/TextAppearance.Large"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/btnshape"
+        android:background="@drawable/btnshapebigblue"
         android:text="@string/Easy"
-        android:textColor="#d6d4d4"
+        android:textColor="@color/colorSymbols"
         android:textStyle="bold" />
 
     <Button
@@ -23,9 +23,9 @@
         style="@android:style/TextAppearance.Large"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/btnshape"
+        android:background="@drawable/btnshapebigblue"
         android:text="@string/Normal"
-        android:textColor="#d6d4d4"
+        android:textColor="@color/colorSymbols"
         android:textStyle="bold"
         android:layout_marginTop="20dp"/>
 
@@ -34,9 +34,9 @@
         style="@android:style/TextAppearance.Large"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/btnshape"
+        android:background="@drawable/btnshapebigblue"
         android:text="@string/Hard"
-        android:textColor="#d6d4d4"
+        android:textColor="@color/colorSymbols"
         android:textStyle="bold"
         android:layout_marginTop="20dp"/>
 

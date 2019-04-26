@@ -17,12 +17,15 @@
 
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/redButton"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/btnshapebig"
+            android:layout_margin="20dp"
+            android:background="@drawable/btnshapebigblue"
             android:text="Вонять как дохлая мышь всю жизнь"
-            android:layout_margin="20dp"/>
+            android:textColor="@color/colorSymbols"
+            android:textSize="24sp"
+            />
 
     </LinearLayout>
 
@@ -36,12 +39,14 @@
 
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/blueButton"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_margin="20dp"
             android:background="@drawable/btnshapebig"
             android:text="родиться цыганкой"
-            android:layout_margin="20dp"/>
+            android:textColor="@color/colorSymbols"
+            android:textSize="24sp" />
     </LinearLayout>
 
 
